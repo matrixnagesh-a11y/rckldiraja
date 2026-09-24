@@ -481,6 +481,30 @@ export default function Home() {
     }
   }, [projectList]);
 
+  // Real-time synchronization from AWS RDS PostgreSQL
+  const refreshProjectsFromDb = async () => {
+    try {
+      const res = await fetch("/api/projects");
+      if (res.ok) {
+        const data = await res.json();
+        if (Array.isArray(data.projects)) {
+          // Permanently filter out any trace of old demo project IDs (101-105)
+          const genuine = data.projects.filter((p: any) => ![101, 102, 103, 104, 105].includes(Number(p.id)));
+          setProjectList(genuine);
+          if (typeof window !== "undefined") {
+            localStorage.setItem("rckl_project_list", JSON.stringify(genuine));
+          }
+        }
+      }
+    } catch (err) {
+      console.warn("Could not fetch remote projects from PostgreSQL API:", err);
+    }
+  };
+
+  useEffect(() => {
+    refreshProjectsFromDb();
+  }, []);
+
   const [projectSearch, setProjectSearch] = useState("");
   const [selectedProjectCategory, setSelectedProjectCategory] = useState("All");
   const [selectedProject, setSelectedProject] = useState<any | null>(null);
@@ -897,6 +921,30 @@ Date: ${new Date().toLocaleDateString("en-GB", { day: "2-digit", month: "long", 
           status: allApproved ? "Approved by Board & KLRCF Trustees" : "Pending Committee Review / Grant Application"
         };
       });
+    }
+
+    // Sync approval to PostgreSQL database in real-time
+    try {
+      const targetP = projectList.find((p) => p.id === projectId);
+      if (targetP) {
+        const currentApps = targetP.approvals || {};
+        const updatedApps = {
+          ...currentApps,
+          [stageKey]: { approved: true, approved_by: approverName, approved_at: fullTimestamp }
+        };
+        const allApproved = Object.values(updatedApps).every((a: any) => a?.approved);
+        fetch("/api/projects", {
+          method: "PUT",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({
+            id: projectId,
+            approvals: updatedApps,
+            status: allApproved ? "Approved by Board & KLRCF Trustees" : "Pending Committee Review / Grant Application"
+          })
+        }).catch((e) => console.warn("PUT /api/projects error:", e));
+      }
+    } catch (e) {
+      console.warn("DB approval sync error:", e);
     }
 
     setProfileSaveMsg(`✓ Grant stage "${stageLabel}" approved by designated role holder ${approverName} at ${fullTimestamp}`);
@@ -1868,6 +1916,20 @@ Rotary International • Service Above Self`
         console.warn("Session storage error:", err);
       }
     }
+
+    // Persist new project to AWS RDS PostgreSQL
+    try {
+      fetch("/api/projects", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(newProj)
+      })
+        .then(() => refreshProjectsFromDb())
+        .catch((e) => console.warn("POST /api/projects error:", e));
+    } catch (e) {
+      console.warn("DB dispatch error:", e);
+    }
+
     setApplicationSuccessMsg(`Community Service Project Paper "${appTitle}" successfully submitted matching all ProjectPDF.pdf fields!`);
     setIsApplicationFormOpen(false);
 
