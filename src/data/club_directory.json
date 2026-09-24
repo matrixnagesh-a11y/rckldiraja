@@ -1,0 +1,1777 @@
+{
+  "club_info": {
+    "name": "Rotary Club of Kuala Lumpur DiRaja",
+    "charter_no": "3268",
+    "club_no": "16222",
+    "district": "3300",
+    "founded": "1928",
+    "chartered": "15 January 1930",
+    "king": "Seri Paduka Baginda Yang Di-Pertuan Agong Sultan Ibrahim",
+    "royal_patron": "H.R.H. Sultan Sharafuddin Idris Shah Alhaj Ibni Almarhum Sultan Salahuddin Abdul Aziz Shah Alhaj (Sultan of Selangor)",
+    "ri_president": "Francesco Arezzo (2025-2026)",
+    "district_governor": "Edward Khoo Toh Hock (2025-2026)",
+    "club_president": "Seyed Ehsan Masoumi Eshkevari (2026-2027)",
+    "address": "Level 3, Bangunan Sultan Salahuddin Abdul Aziz Shah, 16 Jalan Utara, Petaling Jaya, 46200 Selangor, Malaysia",
+    "email": "rckldiraja@gmail.com",
+    "website": "www.rotarykldiraja.org",
+    "meetings": "1st and 3rd Wednesdays at 12:45 PM (Lunch Meeting)"
+  },
+  "board": [
+    {
+      "position": "President",
+      "name": "Seyed Ehsan Masoumi Eshkevari"
+    },
+    {
+      "position": "Immediate Past President (IPP)",
+      "name": "Dato' Dr. Prakash Rao"
+    },
+    {
+      "position": "President Elect",
+      "name": "Rajendra Kulasegaran"
+    },
+    {
+      "position": "Vice President",
+      "name": "Datuk Uwe Ahrens"
+    },
+    {
+      "position": "Honorary Secretary",
+      "name": "Nadeem Mahmood Shaikh"
+    },
+    {
+      "position": "Honorary Treasurer",
+      "name": "Surinderdeep Singh"
+    },
+    {
+      "position": "Community Service Director",
+      "name": "Thomas Varughese"
+    },
+    {
+      "position": "International Service Director",
+      "name": "Datuk Tho Yow Yin"
+    },
+    {
+      "position": "Vocational Service Director",
+      "name": "Aiman Fakhrullah bin Mohd Manan"
+    },
+    {
+      "position": "Youth Service Director",
+      "name": "Joe Teoh Zhuo-Wei"
+    },
+    {
+      "position": "Membership Director",
+      "name": "Darween Singh A/L Sukhdev Singh"
+    },
+    {
+      "position": "Public Image Director",
+      "name": "Pradeep Balaram"
+    },
+    {
+      "position": "The Rotary Foundation (TRF) Director",
+      "name": "Datuk Shavrathan Lalchand (Shah Ranai)"
+    },
+    {
+      "position": "Club Service Director",
+      "name": "Terence Weihan T Lim"
+    },
+    {
+      "position": "Fellowship Director",
+      "name": "Dr. Malwinder Singh"
+    },
+    {
+      "position": "Sergeant-at-Arms",
+      "name": "Neil Tan Wei Shin"
+    },
+    {
+      "position": "Learning and Development Director",
+      "name": "Dr. Raymond Tan Suan-Kuo"
+    }
+  ],
+  "members": [
+    {
+      "id": 1,
+      "name": "AHMED A HASSAN",
+      "classification": "Project Mgt",
+      "office_addr": "Hasscods Sdn Bhd, 2-2 Laman Ara Utama, Jln",
+      "office_tel": "",
+      "mobile": "012 440 9903",
+      "email": "almatook57@gmail.com",
+      "birthday": "23 Sep",
+      "wedding_anniversary": "17 Dec",
+      "spouse": "Fatin A Karam",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 2,
+      "name": "AIMAN FAKHRULLAH BIN MOHD MANAN",
+      "classification": "Advisory (Healthcare)",
+      "office_addr": "Level 1&2, No.43, Jalan SS15/4B, 47500 Subang Jaya",
+      "office_tel": "03-56312342",
+      "mobile": "012-6052342",
+      "email": "aiman.rckldr@gmail.com",
+      "birthday": "15 Nov",
+      "wedding_anniversary": "15 Dec",
+      "spouse": "Amelia Ang Yan Ling",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 3,
+      "name": "AJIT SINGH JOHL A/L JASBIR SINGH",
+      "classification": "Finance \u2013 Payment Solutions",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "019-222 2898",
+      "email": "ajit@permodalan.my",
+      "birthday": "25 March",
+      "wedding_anniversary": "02 April",
+      "spouse": "Kiranjeet Kaur",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 4,
+      "name": "AJITPAL SINGH A/L KOLWANT SINGH",
+      "classification": "",
+      "office_addr": "A2484, Setia Avenue, Jalan Setia Prima, 40170, Shah",
+      "office_tel": "",
+      "mobile": "012-565 2906",
+      "email": "rotarianajitpal@gmail.com",
+      "birthday": "29 Dec",
+      "wedding_anniversary": "29 Oct",
+      "spouse": "Dr Mankiran Kaur",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 5,
+      "name": "Dato' AKBAR KHAN MOHD KHAN",
+      "classification": "Developer",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012-273 1525",
+      "email": "rashidah@brdb.com.my",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 6,
+      "name": "Dato' AKS JIMMY LIM THAW CHAY",
+      "classification": "Real Property",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "016 212 7697",
+      "email": "jimmylim3300@gmail.com",
+      "birthday": "15 May",
+      "wedding_anniversary": "14 Nov",
+      "spouse": "Datin Brenda Loh Lai Cheng",
+      "phf": false,
+      "past_president": true
+    },
+    {
+      "id": 7,
+      "name": "ALVIN NIGEL PAUL",
+      "classification": "Human Resource Development and Training",
+      "office_addr": "ASM Learnng Sdn Bhd, Block A 3rd floor, A08-03,",
+      "office_tel": "012 286 7228",
+      "mobile": "012 286 7228",
+      "email": "datodr69@gmail.com",
+      "birthday": "17 Jun",
+      "wedding_anniversary": "15 Nov",
+      "spouse": "Shangeeta Suppiah",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 8,
+      "name": "Dr. AMIR IZWAN MOHD DAHAN",
+      "classification": "Medicine - ENT",
+      "office_addr": "",
+      "office_tel": "03-2687 5000",
+      "mobile": "019-380 2208",
+      "email": "amirent70@yahoo.com",
+      "birthday": "01 June",
+      "wedding_anniversary": "29 April",
+      "spouse": "Dr Suriati Azman",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 9,
+      "name": "Dato' ANDREW CHIA KONG LAM",
+      "classification": "INVESTMENT & FINANCIAL PLANNING",
+      "office_addr": "SUITE B-23A-05, MENARA PINNACLE PJ, JALAN",
+      "office_tel": "03 7980 2311",
+      "mobile": "012 311 1799",
+      "email": "andrewchiakl@gmail.com",
+      "birthday": "2 NoVEMBER",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 10,
+      "name": "ASHVINTHAN ANAMALAI",
+      "classification": "Marketing Communications",
+      "office_addr": "D-3-5, Pacific Place Commercial Center, Jalan PJU",
+      "office_tel": "03 7832 4000",
+      "mobile": "016 233 1041",
+      "email": "ashvinthan@gmail.com",
+      "birthday": "4 Oct",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 11,
+      "name": "Dr. Alaric Asir Nathan",
+      "classification": "Property Management & Consultancy",
+      "office_addr": "Suite B-12-07, 08 & 09, 12TH FLOOR",
+      "office_tel": "03 6413 1452 / 6413 1453",
+      "mobile": "016 607 5000",
+      "email": "alaricdgr8@gmail.com",
+      "birthday": "14 Dec",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 12,
+      "name": "BEH BENG HAN",
+      "classification": "Accounting & Finance",
+      "office_addr": "B-2-2 Northpoint Office Suites, 1 Medan Syed Putra",
+      "office_tel": "03 2283 6770",
+      "mobile": "012 503 5366",
+      "email": "bhan.beh@gmail.com",
+      "birthday": "28 Aug",
+      "wedding_anniversary": "3 Sep",
+      "spouse": "Joanne Wong",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 13,
+      "name": "Dato' BEH LYE HUAT",
+      "classification": "Accountancy \u2013 Taxation",
+      "office_addr": "",
+      "office_tel": "03-2284 9089 / 2283 3749",
+      "mobile": "012-387 1229",
+      "email": "behlhco@gmail.com",
+      "birthday": "19 Nov",
+      "wedding_anniversary": "1 Oct",
+      "spouse": "Datin Khoo Pek Ling",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 14,
+      "name": "BENNY SOH SEOW LENG",
+      "classification": "Law - General",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "016-262 8262",
+      "email": "bennyslsoh@hotmail.com",
+      "birthday": "7 Apr",
+      "wedding_anniversary": "25 Oct",
+      "spouse": "Kam Peng",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 15,
+      "name": "Datuk CHAN KAM FATT",
+      "classification": "Timber \u2013 Logging",
+      "office_addr": "",
+      "office_tel": "03-4042 3254 (Dir), 4041 6766",
+      "mobile": "019-313 9918",
+      "email": "ckf1999@gmail.com",
+      "birthday": "22 Jul",
+      "wedding_anniversary": "24 May",
+      "spouse": "The Late Datin Ong Siew Gik",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 16,
+      "name": "CHANG MIN WAI",
+      "classification": "Construction - Electrical",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012-236 6643",
+      "email": "minwai@gmail.com",
+      "birthday": "16 June",
+      "wedding_anniversary": "05 June",
+      "spouse": "Su Yin, Jasmine",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 17,
+      "name": "DARWEEN SINGH A/L SUKHDEV SINGH",
+      "classification": "",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "017 205 1203",
+      "email": "darweensingh@msn.com",
+      "birthday": "15 Aug",
+      "wedding_anniversary": "19 May",
+      "spouse": "Dr Dalvinder Kaur",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 18,
+      "name": "Datuk DAVE TEOH BENG HIN",
+      "classification": "Real Estate Investments & Services",
+      "office_addr": "",
+      "office_tel": "03 7877 8000",
+      "mobile": "012 221 1213",
+      "email": "daveteoh@gmail.com",
+      "birthday": "20 Dec",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 19,
+      "name": "Datuk Dr. A T KUMARARAJAH TAMBYRAJA",
+      "classification": "Consultancy Healthcare",
+      "office_addr": "Curaworks Sdn Bhd",
+      "office_tel": "03 8959 0555",
+      "mobile": "012 383 9009",
+      "email": "dratkumararajah@gmail.com",
+      "birthday": "28 Dec",
+      "wedding_anniversary": "6 Jul",
+      "spouse": "Datin Dr Chandini",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 20,
+      "name": "Dato' Dr. PRAKASH RAO A/L KRISHNAN",
+      "classification": "Medicine - General Practice",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 287 1845",
+      "email": "paykash@gmail.com",
+      "birthday": "23 Sep",
+      "wedding_anniversary": "6 Apr",
+      "spouse": "Datin Kumuthu Malar a/p M. Kandasamy (Malar)",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 21,
+      "name": "Dato' Dr. SEVINDER SINGH",
+      "classification": "Security Services",
+      "office_addr": "No.14 Jalan Opera C Sek U2/C, Taman TTDI Jaya,",
+      "office_tel": "",
+      "mobile": "019 275 0867",
+      "email": "sheensidhu@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 22,
+      "name": "Dato' Dr. Sir LOW BIN TICK",
+      "classification": "Medicine \u2013 Dermatology",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 202 0151",
+      "email": "lowbintick@gmail.com",
+      "birthday": "08 January",
+      "wedding_anniversary": "27 February",
+      "spouse": "Datin Lee Kim Mooi, Regina",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 23,
+      "name": "FABIAN TEJA BOEGERSHAUSEN",
+      "classification": "Technology",
+      "office_addr": "",
+      "office_tel": "03 8601 1888",
+      "mobile": "017 237 4528",
+      "email": "fabianboegershausen@gmail.com",
+      "birthday": "20 Nov",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 24,
+      "name": "FRANK LIM HOOK HONG",
+      "classification": "Surveying - Chartered Quantity Surveyor,",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 332 8823, EMAIL: franklimhh@gmail.com",
+      "email": "",
+      "birthday": "18 Jan",
+      "wedding_anniversary": "7 Jul",
+      "spouse": "Josephine Chong",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 25,
+      "name": "GUS TAKOW ETENGENG",
+      "classification": "Talent Development, Sales & Services",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "018 382 2459",
+      "email": "gustakow@hotmail.com",
+      "birthday": "15 Oct",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 26,
+      "name": "Dato' HAM AH NEE",
+      "classification": "Surveying \u2013 Quantity Consultancy",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "019 215 9999",
+      "email": "datoham@gmail.com",
+      "birthday": "6 Jul",
+      "wedding_anniversary": "18 Jun",
+      "spouse": "Datin Judy Ham",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 27,
+      "name": "HARDEEP SINGH A/L RAM SINGH",
+      "classification": "Finance - Consultancy",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "016 368 2633",
+      "email": "hardeep01@gmail.com",
+      "birthday": "12 Dec",
+      "wedding_anniversary": "10 Jun",
+      "spouse": "Yoko Nakagawa",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 28,
+      "name": "HARMINDER SINGH",
+      "classification": "Health,Safety & Environment",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "013 393 0466",
+      "email": "harminder28@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "5 May",
+      "spouse": "Patvinder Kaur",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 29,
+      "name": "Dato' Haji Dr. MUSTAPHA MA CHI",
+      "classification": "Government Education (Retired)",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 330 1178",
+      "email": "mustaphama@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 30,
+      "name": "Dato' Haji MOHD HANIF B. SHER MOHAMED",
+      "classification": "Finance - Loans",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 309 9999",
+      "email": "mohdhanifs@gmail.com",
+      "birthday": "30 Sep",
+      "wedding_anniversary": "31 Aug",
+      "spouse": "Datin Sharifah bt Haroun",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 31,
+      "name": "ISKANDAR SIM ABDULLAH, BINGLEY",
+      "classification": "Banking \u2013 Investment",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "019 316 7713",
+      "email": "bingleysim@cimb.com",
+      "birthday": "5 Mar",
+      "wedding_anniversary": "17 Oct",
+      "spouse": "Fatimah Norbinshah",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 32,
+      "name": "Dr. JAIDEEP SINGH",
+      "classification": "",
+      "office_addr": "Damansara Specialist Hospital 2, KL",
+      "office_tel": "",
+      "mobile": "019 313 3645",
+      "email": "drjaideep1@gmail.com",
+      "birthday": "7 Sep",
+      "wedding_anniversary": "11 Jan",
+      "spouse": "Yasmin",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 33,
+      "name": "JAMES MAK KEE CHEONG",
+      "classification": "Jewellery-Retail",
+      "office_addr": "Glister Fashion Sdn Bhd, 26G, Jalan 52/18, 46200",
+      "office_tel": "",
+      "mobile": "019 333 8330",
+      "email": "jamesmak555@gmail.com",
+      "birthday": "8 May",
+      "wedding_anniversary": "19 Mar",
+      "spouse": "Chin Kim",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 34,
+      "name": "JAYVINDER SINGH A/L SURJIT SINGH",
+      "classification": "",
+      "office_addr": "Fraser Business Park, KL",
+      "office_tel": "",
+      "mobile": "019 666 6066",
+      "email": "jayvinpandher@gmail.com",
+      "birthday": "27 Aug",
+      "wedding_anniversary": "19 Dec",
+      "spouse": "Dr Sharonjit Kaur",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 35,
+      "name": "JEFF KEOW HOCK SNEAH",
+      "classification": "Management Consultancy \u2013 General",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 288 3968",
+      "email": "jeffkeow@gmail.com",
+      "birthday": "31 Mar",
+      "wedding_anniversary": "6 Dec",
+      "spouse": "Quah Phaik Suan, Elaine",
+      "phf": false,
+      "past_president": true
+    },
+    {
+      "id": 36,
+      "name": "JEHAD AHMED SAEED KAID",
+      "classification": "",
+      "office_addr": "212 Jalan Ampang, 50450 Kuala Lumpur",
+      "office_tel": "",
+      "mobile": "013 366 6694",
+      "email": "jehad_ahmed60@yahoo.com",
+      "birthday": "28 Dec",
+      "wedding_anniversary": "2 Oct",
+      "spouse": "Tasnim Akram",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 37,
+      "name": "JOE TEOH ZHUO-WEI",
+      "classification": "Law - Commercial",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 287 1548",
+      "email": "joe.wei83@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 38,
+      "name": "JOHNNY S LIM",
+      "classification": "Investment Holdings",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 312 2951",
+      "email": "jslim@alum.mit.edu",
+      "birthday": "13 Nov",
+      "wedding_anniversary": "6 Jun",
+      "spouse": "May",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 39,
+      "name": "JUSTIN TEOH TEK CHONG",
+      "classification": "Quantity Surveying",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 280 3000",
+      "email": "teohtcj@hotmail.com",
+      "birthday": "18 Jun",
+      "wedding_anniversary": "26 Nov",
+      "spouse": "Vel",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 40,
+      "name": "KEN LOUISE",
+      "classification": "MEDICINE- DENTISTRY",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "017-9853088",
+      "email": "drkenlouisedward@gmail.com",
+      "birthday": "6 th January",
+      "wedding_anniversary": "15th July 2023",
+      "spouse": "EILEEN TEOH EE LING",
+      "phf": false,
+      "past_president": true
+    },
+    {
+      "id": 41,
+      "name": "Dato' KOAY SOON ENG",
+      "classification": "Accounting \u2013 Management",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "010 701 234",
+      "email": "koay@koayassociates.com",
+      "birthday": "22 Nov",
+      "wedding_anniversary": "19 May",
+      "spouse": "Datin Linda Koay, PHF",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 42,
+      "name": "LAURENCE RAJ RAJAMANIKAM",
+      "classification": "LOGISTICS-BUSINESS OWNER",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "019-3103636",
+      "email": "laurence3636@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 43,
+      "name": "Dr. LEE HOCK BEE",
+      "classification": "Medicine \u2013 Surgery",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 373 9668",
+      "email": "lee.hockbee@gmail.com",
+      "birthday": "2 May",
+      "wedding_anniversary": "15 Aug",
+      "spouse": "Juanita",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 44,
+      "name": "LOO KOK YUEN",
+      "classification": "Investment (Counselling)",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 221 2110",
+      "email": "ky_loo@yahoo.com",
+      "birthday": "31 Oct",
+      "wedding_anniversary": "15 Aug",
+      "spouse": "",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 45,
+      "name": "MAGANDRAN MUTHIAH",
+      "classification": "F&B (Dairy)",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 332 2221",
+      "email": "oziland2@yahoo.com",
+      "birthday": "25 Sep",
+      "wedding_anniversary": "22 Jan",
+      "spouse": "Thanayanayagi Pathmanathan (Thana)",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 46,
+      "name": "MALWINDER SINGN SANDHU",
+      "classification": "Insurance \u2013 Life",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "013 330 3579",
+      "email": "mcglifesavers@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": true
+    },
+    {
+      "id": 47,
+      "name": "MICHAEL HOR JUN LUNG",
+      "classification": "Construction - Engineering",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "016 222 4782",
+      "email": "michael.hkssb@gmail.com",
+      "birthday": "18 Jun",
+      "wedding_anniversary": "12 Feb",
+      "spouse": "Tracy Pang",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 48,
+      "name": "MICHAEL JOSEF HEGELBACH",
+      "classification": "Banking \u2013 Process Management",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 220 8276",
+      "email": "michael.hegelbach@bluewin.ch",
+      "birthday": "22 Aug",
+      "wedding_anniversary": "1 Apr",
+      "spouse": "Mirella",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 49,
+      "name": "MICHAEL PLASCOW",
+      "classification": "Professional Photographer \u2013 Sports/Nature/",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 233 7819",
+      "email": "mike@toplites.net",
+      "birthday": "19 Jun",
+      "wedding_anniversary": "27 Jul",
+      "spouse": "Linda Chin",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 50,
+      "name": "MOHAMED RIDZA BIN MOHAMED ABDULLAH",
+      "classification": "Law \u2013 General",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 217 9917",
+      "email": "ridza@ridzalaw.com.my, ridzaabdullah@gmail.com",
+      "birthday": "18 May",
+      "wedding_anniversary": "2 Apr",
+      "spouse": "Rozen Bee Shariff Bte Abdul Kadir Shariff",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 51,
+      "name": "Dato' MOHAMED RIZAL AL-AMIN TUN SARDON",
+      "classification": "Engineering - Consultancy",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 297 8197",
+      "email": "tai_loh@yahoo.com; rsardon@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 52,
+      "name": "MOHD AZMAL KHAN BIN AHMED MAIDEEN",
+      "classification": "Hotel Supplies \u2013 Distribution",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 321 0480",
+      "email": "ajmal@hospitality.com.my",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 53,
+      "name": "MURTAZA SHAFIE BIN MUNTAZ AHMAD",
+      "classification": "Money Lender \u2013 General",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 763 3756",
+      "email": "taz_shafie@yahoo.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 54,
+      "name": "Dato' Major Donor JP RAMAKRISHNAN NAIR",
+      "classification": "Solid Waste Management",
+      "office_addr": "MEC ClearWaste Bhd, Suite B-3A-08, Level 3A,",
+      "office_tel": "",
+      "mobile": "012 288 2950",
+      "email": "ramnair@mec.my",
+      "birthday": "29 Mar",
+      "wedding_anniversary": "18 Oct",
+      "spouse": "Datin Lydia Nair",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 55,
+      "name": "Dr. NADEEM MAHMOOD SHAIKH",
+      "classification": "Projects Development Technical Services",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "019 326 1522",
+      "email": "nadeemms@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 56,
+      "name": "NAGESH MAHAJAN",
+      "classification": "IT & Security Consultant",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "016 266 3851",
+      "email": "matrixnagesh@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 57,
+      "name": "NEIL TAN WEI SHIN",
+      "classification": "Law \u2013 Construction and Employment",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "016 980 7292",
+      "email": "neiltanweishin@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 58,
+      "name": "ONG YU JIAN",
+      "classification": "Law \u2013 Civil Litigation",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 428 9039",
+      "email": "yujian@roy.com.my",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 59,
+      "name": "OTOHIKO ABE",
+      "classification": "Marketing",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 578 0570",
+      "email": "oto123oto@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 60,
+      "name": "PETER BILITSCH",
+      "classification": "Banking - Investment",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "017 356 5866",
+      "email": "peter.bilitsch@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 61,
+      "name": "Datuk PETER VOGT",
+      "classification": "Food Manufacturing",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "vogtpeter@yahoo.de",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 62,
+      "name": "PRABAGARAN VYTHILINGAM",
+      "classification": "Security - Consulting",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "velrich5@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 63,
+      "name": "PRADEEP BALARAM",
+      "classification": "Healthcare Brand Strategist / Leadership",
+      "office_addr": "No.1, Jalan SS3/59",
+      "office_tel": "",
+      "mobile": "010 881 8806",
+      "email": "pradeepbonafide@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 64,
+      "name": "RAHUL AGARWAL",
+      "classification": "Banking",
+      "office_addr": "Citibank Malaysia, Menara Citibank, Level 9, Jln",
+      "office_tel": "",
+      "mobile": "014 645 1433",
+      "email": "arahul79@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 65,
+      "name": "Tan Sri RAINER ALTHOFF",
+      "classification": "Electrical Engineering & Digital Transformation",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 202 1038",
+      "email": "althoffrainer@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 66,
+      "name": "RAJENDRA KULASEGARAN",
+      "classification": "Law - Commercial",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "013 360 9369",
+      "email": "ranjitthomaskula@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 67,
+      "name": "Dr. RAYMOND TAN SUAN KUO",
+      "classification": "Medicine",
+      "office_addr": "Beacon Hospital, Petaling Jaya",
+      "office_tel": "",
+      "mobile": "016 654 7406",
+      "email": "thesnoringsurgeon@gmail.com",
+      "birthday": "8 May",
+      "wedding_anniversary": "10 May",
+      "spouse": "Shikha",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 68,
+      "name": "Dato' ROSHANE RIZAL MOHD IBRAHIM",
+      "classification": "Consultancy - Management",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "017 354 1807",
+      "email": "ribrahimus@yahoo.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 69,
+      "name": "SATHEESH NAIR, GABRIEL",
+      "classification": "",
+      "office_addr": "CIMA Malaysia Sdn Bhd, First Avenue, Bandar Uta-",
+      "office_tel": "",
+      "mobile": "010 225 5569",
+      "email": "sathez@hotmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 70,
+      "name": "SEELAN S CHELLIAH",
+      "classification": "Chartered Accountant",
+      "office_addr": "Inpana & Associates, 568-9-21, 9th Floor, Kompleks",
+      "office_tel": "",
+      "mobile": "019 337 0796",
+      "email": "seelan@inpanas.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 71,
+      "name": "SEYED EHSAN MASOUMI ESHKEVARI",
+      "classification": "Pranic Healing \u2013 Training & Consulting",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "017 254 0402",
+      "email": "ehsun.m.e@gmail.com",
+      "birthday": "26 Nov",
+      "wedding_anniversary": "25 Jun",
+      "spouse": "Nona",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 72,
+      "name": "Dr. SEYED HASSAN MASOUM ESHEVARI",
+      "classification": "Urban and Regional Planning/Retired",
+      "office_addr": "Pantai Panorama Condominium, Bangsar South,",
+      "office_tel": "",
+      "mobile": "014 226 4011",
+      "email": "hasan.m1954@yahoo.com",
+      "birthday": "27 Feb",
+      "wedding_anniversary": "2 Jan",
+      "spouse": "Farahnaz Farrokhzad",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 73,
+      "name": "SHAVRATHAN LALCHAND, SHAH RANAI",
+      "classification": "Graduation Services",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "019 335 2036",
+      "email": "slalchandranai@gmail.com",
+      "birthday": "4 Mar",
+      "wedding_anniversary": "15 Feb",
+      "spouse": "Datin Anita Ram Daswani",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 74,
+      "name": "SIVA SHANKER CP",
+      "classification": "Real Estate",
+      "office_addr": "Linear Estates, Taman Bukit Palma, Sg. Long, 43000",
+      "office_tel": "03 2692 9922",
+      "mobile": "019 337 2852",
+      "email": "siva@linearestates.com",
+      "birthday": "13 Nov",
+      "wedding_anniversary": "11 Nov",
+      "spouse": "Malathi Pillay",
+      "phf": false,
+      "past_president": true
+    },
+    {
+      "id": 75,
+      "name": "SIVASHANKER G BALAKRISHNAN",
+      "classification": "",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 76,
+      "name": "SOU YONG",
+      "classification": "Paints - Manufacturing",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "-",
+      "email": "souyong71@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 77,
+      "name": "Ir. SREEDARAN RAMAN",
+      "classification": "Civil Engineer",
+      "office_addr": "SK Water Consult Sdn Bhd",
+      "office_tel": "",
+      "mobile": "012 328 7474",
+      "email": "sreedaran@hotmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 78,
+      "name": "STEVE LAU KENG LIM",
+      "classification": "Financial Planning",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 398 0000",
+      "email": "stevelau88@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 79,
+      "name": "STUART JAMES VENNER PACK",
+      "classification": "Health and Hospitality Management",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "019 321 8696",
+      "email": "s.f.pack@gmail.com",
+      "birthday": "29 Jul",
+      "wedding_anniversary": "20 Nov",
+      "spouse": "Foong",
+      "phf": true,
+      "past_president": true
+    },
+    {
+      "id": 80,
+      "name": "SUBHAN",
+      "classification": "",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 81,
+      "name": "SUREN KESHAWA HENDRY",
+      "classification": "Jewellery - Manufacturer",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "012 389 9326",
+      "email": "surenkhendry@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 82,
+      "name": "SURESH RATANAM",
+      "classification": "Medical Devices Supply and Services",
+      "office_addr": "B 11 02 Plaza Pantai, Off Jalan Pantai Baru, 59200",
+      "office_tel": "",
+      "mobile": "012 982 2194",
+      "email": "suresh.ratanam@vitramed.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 83,
+      "name": "SURINDERDEEP SINGH",
+      "classification": "Oil and Gas Downstream",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "singh.surinderdeep@gmail.com",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": true,
+      "past_president": false
+    },
+    {
+      "id": 84,
+      "name": "TERENCE WEIHAN T LIM",
+      "classification": "",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 85,
+      "name": "THO YOW YIN",
+      "classification": "",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 86,
+      "name": "THOMAS VARUGHESE",
+      "classification": "",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 87,
+      "name": "UWE AHRENS",
+      "classification": "",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 88,
+      "name": "VASAVHENTHAN VAMATHEVAN",
+      "classification": "",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 89,
+      "name": "VENGALIL ALEXANDER MATHEW",
+      "classification": "",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    },
+    {
+      "id": 90,
+      "name": "WEI CHUAN BENG",
+      "classification": "",
+      "office_addr": "",
+      "office_tel": "",
+      "mobile": "",
+      "email": "",
+      "birthday": "",
+      "wedding_anniversary": "",
+      "spouse": "",
+      "phf": false,
+      "past_president": false
+    }
+  ],
+  "four_way_test": [
+    "Is it the TRUTH?",
+    "Is it FAIR to all concerned?",
+    "Will it build GOODWILL and BETTER FRIENDSHIPS?",
+    "Will it be BENEFICIAL to all concerned?"
+  ],
+  "past_presidents": [
+    {
+      "year": "1928-1929",
+      "name": "Andrew Caldecott"
+    },
+    {
+      "year": "1929-1930",
+      "name": "Choo Kia Peng"
+    },
+    {
+      "year": "1930-1931",
+      "name": "S. Veerasamy"
+    },
+    {
+      "year": "1931-1932",
+      "name": "A. S. Bailey"
+    },
+    {
+      "year": "1932-1933",
+      "name": "T. S. Adams"
+    },
+    {
+      "year": "1933-1934",
+      "name": "E. D. Butler"
+    },
+    {
+      "year": "1934-1935",
+      "name": "R. Boyd"
+    },
+    {
+      "year": "1935-1936",
+      "name": "Khoo Teik Ee, PDG"
+    },
+    {
+      "year": "1936-1937",
+      "name": "G. G. Howell"
+    },
+    {
+      "year": "1937-1938",
+      "name": "G. G. Howell"
+    },
+    {
+      "year": "1938-1939",
+      "name": "A.Arbuthnott"
+    },
+    {
+      "year": "1939-1940",
+      "name": "Francis Cooray"
+    },
+    {
+      "year": "1940-1941",
+      "name": "Francis Cooray"
+    },
+    {
+      "year": "1941-1942",
+      "name": "Francis Cooray"
+    },
+    {
+      "year": "1942-1946",
+      "name": "Tan Sri Gunn Lay Teik, PDG"
+    },
+    {
+      "year": "1946-1947",
+      "name": "Second World War (Club did not function)"
+    },
+    {
+      "year": "1947-1948",
+      "name": "A. W. Frisby, PDG"
+    },
+    {
+      "year": "1948-1949",
+      "name": "Dato\u2019 Haji Mohamed Eusoff, PDG"
+    },
+    {
+      "year": "1949-1950",
+      "name": "H. R. Cheeseman CMG"
+    },
+    {
+      "year": "1950-1951",
+      "name": "Khoo Teik Ee CBE, JP, PDG"
+    },
+    {
+      "year": "1951-1952",
+      "name": "R. A. Cessford, PDG"
+    },
+    {
+      "year": "1952-1953",
+      "name": "Chua Boon Guan, JP"
+    },
+    {
+      "year": "1953-1954",
+      "name": "T. Sivapragasam SMS, MBE, PJK, O St J."
+    },
+    {
+      "year": "1954-1955",
+      "name": "Dato\u2019 Mustapha Albakri, PDG"
+    },
+    {
+      "year": "1955-1956",
+      "name": "G. Hawkins OBE, PJK"
+    },
+    {
+      "year": "1956-1957",
+      "name": "Tan Sri Gunn Lay Teik PMN, OBE, PDG"
+    },
+    {
+      "year": "1957-1958",
+      "name": "A. W. Nasse MBE"
+    },
+    {
+      "year": "1958-1959",
+      "name": "Capt Mohd. Ali MBE, PJK"
+    },
+    {
+      "year": "1959-1960",
+      "name": "R. K. Panikkar  L W. Kaye"
+    },
+    {
+      "year": "1960-1961",
+      "name": "Gurbakhsh Singh Sambhi"
+    },
+    {
+      "year": "1961-1962",
+      "name": "Tan Sri Dato\u2019 V.M. Hutson PSM, JMN, SMS, PJK"
+    },
+    {
+      "year": "1962-1963",
+      "name": "Mohamed bin Baba & Brig. L.G. Young, PDG"
+    },
+    {
+      "year": "1963-1964",
+      "name": "Dr. L. S. Sodhy KMN, PDG"
+    },
+    {
+      "year": "1964-1965",
+      "name": "D.A. Clayton"
+    },
+    {
+      "year": "1965-1966",
+      "name": "Tan Sri Dato\u2019 Abdul Jamil Rais PMN, PJK. O St J., PDG"
+    },
+    {
+      "year": "1966-1967",
+      "name": "Dato\u2019 Dr. Keshmahinder Singh PSD, KMN, PHF, JRF, PDG"
+    },
+    {
+      "year": "1967-1968",
+      "name": "Dato\u2019 Dr. J. S. Sodhy PSD, JMN"
+    },
+    {
+      "year": "1968-1969",
+      "name": "John M. Locke"
+    },
+    {
+      "year": "1969-1970",
+      "name": "R. Chander JMN"
+    },
+    {
+      "year": "1970-1971",
+      "name": "Law Joo Ghin"
+    },
+    {
+      "year": "1971-1972",
+      "name": "K. Vishnu Murthy"
+    },
+    {
+      "year": "1972-1973",
+      "name": "Colin H. Williams"
+    },
+    {
+      "year": "1973-1974",
+      "name": "Dato\u2019 Lau Foo Sun SMS, PHF"
+    },
+    {
+      "year": "1974-1975",
+      "name": "Tan Sri G.S. Gill JP, PPT, JMN, PHF"
+    },
+    {
+      "year": "1975-1976",
+      "name": "Dato\u2019 (Dr.) Haji Mustapha Ma PHF, DPMP, AMN, PPT, PPN, PJK, PDG"
+    },
+    {
+      "year": "1976-1977",
+      "name": "Dato\u2019 Dr. Jaffar bin Hj Mohd. Ali PHF, JRF, PDG"
+    },
+    {
+      "year": "1977-1978",
+      "name": "Tan Sri L Krishnan PJN, SMS, PHF, JRF"
+    },
+    {
+      "year": "1978-1979",
+      "name": "P. S. Gill"
+    },
+    {
+      "year": "1979-1980",
+      "name": "Dato\u2019 Dr. Lam Peng Chong JP, SMS"
+    },
+    {
+      "year": "1980-1981",
+      "name": "Eugene English"
+    },
+    {
+      "year": "1981-1982",
+      "name": "Datuk Dr. Jagjit Singh Sambhi PJN"
+    },
+    {
+      "year": "1982-1983",
+      "name": "Datuk Ramli bin Ibrahim PHF, JRF"
+    },
+    {
+      "year": "1983-1984",
+      "name": "Bernard McSweeney"
+    },
+    {
+      "year": "1984-1985",
+      "name": "Dato\u2019 Beh Lye Huat PHF, BNR, JRF, DPMP, PDG"
+    },
+    {
+      "year": "1985-1986",
+      "name": "Hj. Noordin Truna"
+    },
+    {
+      "year": "1986-1987",
+      "name": "Hew Kiang Hoe PHF, AMN"
+    },
+    {
+      "year": "1987-1988",
+      "name": "Dato\u2019 Ham Ah Nee DPMP, PHF, BNR, JRF"
+    },
+    {
+      "year": "1988-1989",
+      "name": "A.V.M. Jaffardeen"
+    },
+    {
+      "year": "1989-1990",
+      "name": "Dato\u2019 Haji Kamarulzaman bin Mohamed PHF, JRF, DJMK, KMN, PJK, NS"
+    },
+    {
+      "year": "1990-1991",
+      "name": "Chan Kam Fatt PHF"
+    },
+    {
+      "year": "1991-1992",
+      "name": "Dato\u2019 Koay Soon Eng PHF, JRF, Major Donor"
+    },
+    {
+      "year": "1992-1993",
+      "name": "Lim Eng Ho PHF, Major Donor"
+    },
+    {
+      "year": "1993-1994",
+      "name": "Dr. Hardeep Singh PHF, BNR, JRF"
+    },
+    {
+      "year": "1994-1995",
+      "name": "A. Rahim Ismail PHF, JRF"
+    },
+    {
+      "year": "1995-1996",
+      "name": "Dr. William Lau Boon Kin JRF"
+    },
+    {
+      "year": "1996-1997",
+      "name": "Dato\u2019 Dr. Low Bin Tick PHF, JRF, DPMS, DIMP, AMN, C St J."
+    },
+    {
+      "year": "1997-1998",
+      "name": "Dato\u2019 Jimmy T C Lim PHF, JRF, Arch C Klumph Soc. Member, PDG"
+    },
+    {
+      "year": "1998-1999",
+      "name": "Dato\u2019 S. Kulasegaran PHF, JRF"
+    },
+    {
+      "year": "1999-2000",
+      "name": "Frank Lim Hook Hing PHF"
+    },
+    {
+      "year": "2000-2001",
+      "name": "Jason Gan Kok Lung PHF"
+    },
+    {
+      "year": "2001-2002",
+      "name": "Dato\u2019 Mohd Hanif B. Sher Mohamed PHF"
+    },
+    {
+      "year": "2002-2003",
+      "name": "Keow Hock Sneah PHF"
+    },
+    {
+      "year": "2003-2004",
+      "name": "A. Kanesalingam PHF"
+    },
+    {
+      "year": "2004-2005",
+      "name": "Dr. Lee Hock Bee PHF"
+    },
+    {
+      "year": "2005-2006",
+      "name": "Low Kok Hwa PHF"
+    },
+    {
+      "year": "2006-2007",
+      "name": "David Teh PHF"
+    },
+    {
+      "year": "2007-2008",
+      "name": "Attan Akmar  Francis Chan PHF"
+    },
+    {
+      "year": "2008-2009",
+      "name": "Dato\u2019 Mohd Rizal Al-Amin Bin Tun Sardon PHF, JRF"
+    },
+    {
+      "year": "2009-2010",
+      "name": "Andy Khoo Boo Teik PHF, JRF"
+    },
+    {
+      "year": "2010-2011",
+      "name": "Andy Khoo Boo Teik PHF, JRF"
+    },
+    {
+      "year": "2011-2012",
+      "name": "Chan Kam Fatt PHF"
+    },
+    {
+      "year": "2012-2013",
+      "name": "Chan Kam Fatt PHF"
+    },
+    {
+      "year": "2013-2014",
+      "name": "Mohd Nor Halim PHF"
+    },
+    {
+      "year": "2014-2015",
+      "name": "Hardeep Singh (Jr) PHF"
+    },
+    {
+      "year": "2015-2016",
+      "name": "Datuk Uwe Ahrens PHF"
+    },
+    {
+      "year": "2016-2017",
+      "name": "Mohd Azmal Khan"
+    },
+    {
+      "year": "2017-2018",
+      "name": "Datuk Seri Nelson"
+    },
+    {
+      "year": "2018-2019",
+      "name": "Kwok Teng Toong"
+    },
+    {
+      "year": "2019-2020",
+      "name": "Zed Zariman Zulkifli"
+    },
+    {
+      "year": "2020-2021",
+      "name": "Prabagaran Vythilingam"
+    },
+    {
+      "year": "2021-2022",
+      "name": "Ajit Johl"
+    },
+    {
+      "year": "2022-2023",
+      "name": "Surinderdeep Singh"
+    },
+    {
+      "year": "2023-2024",
+      "name": "Dr Amir Izwan"
+    },
+    {
+      "year": "2024-2025",
+      "name": "Dr Alaric Asir Nathan"
+    },
+    {
+      "year": "2025-2026",
+      "name": "Dato Dr. Prakash Rao"
+    }
+  ],
+  "projects": [
+    {
+      "id": "proj-1",
+      "title": "KLRCF Handicapped Children Welfare Project",
+      "category": "Child Welfare & Education",
+      "scale": "RM 250,000",
+      "location": "Selangor & Klang Valley",
+      "funding_sources": "KLRCF Handicapped Children Welfare Fund",
+      "beneficiaries": "Children with physical & learning disabilities",
+      "proposer": "Dato Dr. Prakash Rao",
+      "objective": "Providing specialized medical equipment, therapy aids, and educational scholarships for underprivileged handicapped children.",
+      "status": "Active Project"
+    },
+    {
+      "id": "proj-2",
+      "title": "Save A Sight Cataract Surgery Program",
+      "category": "Health & Medical Aid",
+      "scale": "RM 180,000",
+      "location": "Hospital Kuala Lumpur / Rural Clinics",
+      "funding_sources": "KLRCF Save A Sight Fund & TRF Global Grant",
+      "beneficiaries": "B40 Elderly Patients with Reversible Blindness",
+      "proposer": "PAG Amir Izwan Mohd Dahan",
+      "objective": "Performing free intraocular lens replacement cataract surgeries for needy senior citizens across District 3300.",
+      "status": "Active Project"
+    },
+    {
+      "id": "proj-3",
+      "title": "Clean Water & Sanitation for Indigenous Villages",
+      "category": "Water, Sanitation & Environment",
+      "scale": "RM 120,000",
+      "location": "Orang Asli Settlements, Pahang",
+      "funding_sources": "TRF District Grant & Corporate Partners",
+      "beneficiaries": "350 Orang Asli Villagers",
+      "proposer": "Datuk Chan Kam Fatt",
+      "objective": "Installing gravity-fed water filtration systems and solar pump stations to deliver clean drinking water to remote rural homes.",
+      "status": "Active Project"
+    }
+  ]
+}

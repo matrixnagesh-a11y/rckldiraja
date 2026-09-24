@@ -1,0 +1,164 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --rotary-blue: #00246C;
+    --rotary-blue-dark: #00194A;
+    --rotary-gold: #F7A81B;
+    --rotary-gold-dark: #D4AF37;
+    --rotary-azure: #005DAA;
+    --bg-primary: #F8FAFC;
+    --bg-secondary: #FFFFFF;
+    --bg-card: #FFFFFF;
+    --text-primary: #0F172A;
+    --text-secondary: #334155;
+    --text-muted: #64748B;
+    --border-rotary: rgba(0, 36, 108, 0.12);
+    --border-gold: rgba(247, 168, 27, 0.3);
+  }
+
+  body {
+    background-color: #F8FAFC;
+    background-image: 
+      radial-gradient(at 0% 0%, rgba(0, 36, 108, 0.04) 0px, transparent 50%),
+      radial-gradient(at 100% 0%, rgba(247, 168, 27, 0.06) 0px, transparent 50%),
+      radial-gradient(at 50% 100%, rgba(248, 250, 252, 0.8) 0px, transparent 50%);
+    background-attachment: fixed;
+    color: var(--text-primary);
+    font-family: var(--font-geist-sans), system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom Scrollbar for Light Theme */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F1F5F9;
+}
+::-webkit-scrollbar-thumb {
+  background: #CBD5E1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #00246C;
+}
+
+/* Glassmorphism Panel (Light Theme) */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(0, 36, 108, 0.1);
+  box-shadow: 0 10px 25px -5px rgba(0, 36, 108, 0.06), 0 8px 10px -6px rgba(0, 0, 0, 0.04);
+}
+
+.rotary-gold-text {
+  background: linear-gradient(135deg, #D4AF37 0%, #F7A81B 50%, #B45309 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.rotary-blue-gradient {
+  background: linear-gradient(135deg, #00246C 0%, #00194A 100%);
+}
+
+.royal-card-hover {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+.royal-card-hover:hover {
+  transform: translateY(-4px);
+  border-color: rgba(247, 168, 27, 0.5);
+  box-shadow: 0 16px 30px -10px rgba(0, 36, 108, 0.12);
+}
+
+/* Official Print Styles for Rotary Club Grant Application (ProjectPDF Specification) */
+@media screen {
+  .print-only {
+    display: none !important;
+  }
+}
+
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 10mm 12mm 12mm 12mm;
+  }
+
+  html, body {
+    background: #ffffff !important;
+    color: #000000 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    overflow: visible !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 10pt !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  .no-print,
+  .no-print *,
+  header,
+  nav,
+  footer,
+  aside,
+  button,
+  .floating-bar {
+    display: none !important;
+  }
+
+  /* Clean flow for the printable document container */
+  #rckl-printable-grant {
+    position: static !important;
+    left: auto !important;
+    top: auto !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    border: none !important;
+    box-shadow: none !important;
+    background: #ffffff !important;
+    color: #0f172a !important;
+    display: block !important;
+    visibility: visible !important;
+    overflow: visible !important;
+  }
+
+  #rckl-printable-grant * {
+    visibility: visible !important;
+  }
+
+  /* Explicit A4 Page Containers for 4-page official document */
+  .print-page {
+    page-break-after: always !important;
+    break-after: page !important;
+    min-height: 255mm;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-bottom: 8mm;
+  }
+
+  .print-page:last-child {
+    page-break-after: auto !important;
+    break-after: auto !important;
+    min-height: auto;
+  }
+
+  .print-break-inside-avoid {
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  .print-page-break {
+    page-break-after: always !important;
+    break-after: always !important;
+  }
+}
+
+
